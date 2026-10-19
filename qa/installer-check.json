@@ -1,0 +1,12 @@
+{
+  "repository": "CodexPets-Rin-Cyber-Idol",
+  "shell_syntax": "pass",
+  "custom_path_with_spaces": "pass",
+  "reinstall": "pass",
+  "file_bytes": "pass",
+  "local_markdown_links": "pass",
+  "manifest": "pass",
+  "installed_bytes": "match",
+  "sprite_sha256": "cd5bc9355d65a9a5497ddfa639588541ad16a1fcab50a88bea3f9a08587647bf",
+  "powershell_execution": "not_run_on_macos"
+}

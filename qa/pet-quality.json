@@ -1,0 +1,76 @@
+{
+  "ok": true,
+  "atlas": "pet/spritesheet.webp",
+  "encoded_bytes": 2250262,
+  "sha256": "cd5bc9355d65a9a5497ddfa639588541ad16a1fcab50a88bea3f9a08587647bf",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      200,
+      178,
+      195,
+      202
+    ],
+    "airborne_lift_pixels": 24,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      95.5,
+      95.0,
+      91.5,
+      92.0,
+      92.0,
+      94.0,
+      95.5,
+      96.0,
+      96.0,
+      96.0,
+      95.5,
+      95.5,
+      95.5,
+      96.0,
+      96.0,
+      96.0
+    ],
+    "look_widths": [
+      87,
+      86,
+      91,
+      90,
+      90,
+      86,
+      81,
+      78,
+      88,
+      86,
+      87,
+      87,
+      85,
+      86,
+      88,
+      88
+    ],
+    "maximum_center_drift_pixels": 4.0,
+    "maximum_width_ratio": 1.1666666666666667
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 292.5 accepted with a reviewed warning",
+    "000 has transparent interior hole rows (y=165, y=166, y=167)",
+    "022.5 has transparent interior hole rows (y=166)",
+    "067.5 has transparent interior hole rows (y=166)",
+    "180 has transparent interior hole rows (y=165, y=166)",
+    "202.5 has transparent interior hole rows (y=165, y=167)",
+    "225 has transparent interior hole rows (y=165, y=166)",
+    "247.5 has transparent interior hole rows (y=165, y=166, y=167)",
+    "292.5 has transparent interior hole rows (y=165, y=166)",
+    "315 has transparent interior hole rows (y=165, y=166)",
+    "337.5 has transparent interior hole rows (y=166, y=167)",
+    "157.5->180 diff is a local outlier (3413 pixels vs neighbor average 1985)"
+  ]
+}

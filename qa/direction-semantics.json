@@ -1,0 +1,118 @@
+{
+  "directions": [
+    {
+      "label": "000",
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "evidence": "Chin lifted above collar, face pitched upward, both pupils toward upper eyelids. Lower body remains frontal."
+    },
+    {
+      "label": "022.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Raised chin and upward eyes with slight screen-right nose displacement; headphone perspective begins rightward yaw."
+    },
+    {
+      "label": "045",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "evidence": "Head yaws screen-right, nose projects right of face center, pupils look above-right."
+    },
+    {
+      "label": "067.5",
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "warning",
+      "evidence": "Nose and pupils project screen-right while chin remains slightly raised; upward pitch is gentler than 045."
+    },
+    {
+      "label": "090",
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "evidence": "Clear screen-right profile: nose projects rightward, visible iris aims at right image edge, chin level."
+    },
+    {
+      "label": "112.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "warning",
+      "evidence": "Right-facing nose with lowered chin and downward eyelid slope; vertical component is subtle but follows level 090."
+    },
+    {
+      "label": "135",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Head bows toward lower-right; nose projects screen-right and both irises sit lower than the right cardinal."
+    },
+    {
+      "label": "157.5",
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "evidence": "Deep downward pitch with residual screen-right yaw; lowered pupils and chin aim at lower-right."
+    },
+    {
+      "label": "180",
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "evidence": "Head bowed symmetrically, chin near collar, pupils low and eyes downward. Both earcups remain attached."
+    },
+    {
+      "label": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Downward head bow plus small screen-left nose and gaze displacement; down dominates over horizontal."
+    },
+    {
+      "label": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Nose turns further screen-left while chin remains bowed and pupils lowered, down-left quadrant readable."
+    },
+    {
+      "label": "247.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "evidence": "Stronger screen-left yaw with downward chin pitch; visible eye and nose aim left and below horizontal."
+    },
+    {
+      "label": "270",
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "evidence": "Clear screen-left profile: nose projects toward left image edge, visible iris looks left, chin near level."
+    },
+    {
+      "label": "292.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "warning",
+      "evidence": "Left-facing nose rises relative to 270; chin and visible iris tilt slightly upward, subtle up-left direction."
+    },
+    {
+      "label": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Head pitches upward with strong leftward yaw; lifted chin and pupils toward upper-left, headphones follow head."
+    },
+    {
+      "label": "337.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "evidence": "Chin raised nearly vertically with slight leftward face and pupil bias, continuing into 000 up."
+    }
+  ],
+  "review_method": "Labeled native-size sixteen-direction sheet and full contact sheet inspected by primary agent.",
+  "continuity_review": "Feet and lower body remain planted. 157.5 to 180 changes face yaw in the expected clockwise direction without scale pop or body teleport. Warned alpha gaps at y165-167 are intentional spaces between bare lower legs and attached pointed coat-tails, below the torso, consistent with the reference outfit; no missing interior face or clothing panel."
+}
