@@ -1,13 +1,13 @@
-# Codex Pet — Rin Cyber Idol
+# Codex Pet — 氷色りん
 
 [English](README.en.md) | 日本語
 
-Rin Cyber Idol（氷色サイバーアイドル・りん）は、Codex Desktopで使える非公式のカスタムPetです。リンを、白とアイスブルーのサイバー衣装、ヘッドホン、お団子ヘアをまとったちびキャラクターとして仕上げています。
+氷色りんは、Codex Desktopで使える非公式のカスタムPetです。リンを、白とアイスブルーのサイバー衣装、ヘッドホン、お団子ヘアをまとったちびキャラクターとして仕上げています。
 
 > [!IMPORTANT]
 > **個人・非商用のローカル利用のみ許可されています。再配布禁止です。** GitHub標準の閲覧・forkと正規リポジトリへのリンク共有を除き、転載、再アップロード、ミラー、同梱、商用利用、素材抽出、視覚素材の改変・派生利用、AI学習利用は禁止されています。詳細は[個人利用ライセンス](LICENSE.md)と[利用ガイド](docs/LICENSE_GUIDE.md)を確認してください。
 
-![氷色サイバーアイドル・りんの待機・手振り・ジャンプ・作業中のプレビュー](assets/hero.png)
+![氷色りんの待機・手振り・ジャンプ・作業中のプレビュー](assets/hero.png)
 
 ## 特徴
 
@@ -23,12 +23,12 @@ Rin Cyber Idol（氷色サイバーアイドル・りん）は、Codex Desktop�
 macOSまたはLinuxでは次を実行します。
 
 ```sh
-git clone https://github.com/momuandteasteam/CodexPets-Rin-Cyber-Idol.git
-cd CodexPets-Rin-Cyber-Idol
+git clone https://github.com/momuandteasteam/CodexPets-Rin-Ice.git
+cd CodexPets-Rin-Ice
 ./scripts/install.sh
 ```
 
-Windowsでは`.\scripts\install.ps1`を使用できます。Codex Desktopを再起動し、Petの選択画面から「氷色サイバーアイドル・りん」を選んでください。詳しい手順と更新・削除方法は[インストールガイド](docs/INSTALLATION.md)にあります。
+Windowsでは`.\scripts\install.ps1`を使用できます。Codex Desktopを再起動し、Petの選択画面から「氷色りん」を選んでください。詳しい手順と更新・削除方法は[インストールガイド](docs/INSTALLATION.md)にあります。
 
 > [!NOTE]
 > このパッケージはCodex DesktopのローカルPet形式を対象としたコミュニティ提供のものです。アプリ更新により対応形式が変わる可能性があります。
@@ -65,7 +65,7 @@ Windowsでは`.\scripts\install.ps1`を使用できます。Codex Desktopを再�
 
 検証結果と既知の軽微な注意点は[QAレポート](docs/QA.md)にまとめています。
 
-![Rin Cyber Idolの16方向視線](assets/look-directions.png)
+![氷色りんの16方向視線](assets/look-directions.png)
 
 ## リポジトリ構成
 

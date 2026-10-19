@@ -1,13 +1,13 @@
-# Codex Pet — Rin Cyber Idol
+# Codex Pet — 氷色りん
 
 English | [日本語](README.md)
 
-Rin Cyber Idol (氷色サイバーアイドル・りん) is an unofficial custom pet for Codex Desktop: a gentle chibi Rin in a white-and-ice-blue cyber-idol outfit, with silver-blue headphones and an ash-brown hair bun.
+氷色りん (Ice Rin) is an unofficial custom pet for Codex Desktop: a gentle chibi Rin in a white-and-ice-blue cyber-idol outfit, with silver-blue headphones and an ash-brown hair bun.
 
 > [!IMPORTANT]
 > **Only personal, non-commercial local use is permitted. Redistribution is prohibited.** Except for GitHub’s standard viewing/fork functionality and links to this official repository, reposting, re-uploading, mirroring, bundling, commercial use, asset extraction, visual modifications or derivative uses, and AI-training use are prohibited. See the [Personal-Use License](LICENSE.md) and [usage guide](docs/LICENSE_GUIDE.md).
 
-![Rin Cyber Idol in idle, waving, jumping and working poses](assets/hero.png)
+![氷色りん in idle, waving, jumping and working poses](assets/hero.png)
 
 ## Highlights
 
@@ -23,12 +23,12 @@ Rin Cyber Idol (氷色サイバーアイドル・りん) is an unofficial custom
 Run the following on macOS or Linux:
 
 ```sh
-git clone https://github.com/momuandteasteam/CodexPets-Rin-Cyber-Idol.git
-cd CodexPets-Rin-Cyber-Idol
+git clone https://github.com/momuandteasteam/CodexPets-Rin-Ice.git
+cd CodexPets-Rin-Ice
 ./scripts/install.sh
 ```
 
-On Windows, use `.\scripts\install.ps1`. Restart Codex Desktop, then select “氷色サイバーアイドル・りん” from the pet selector. See the [installation guide](docs/INSTALLATION.md) for update, verification, and removal instructions.
+On Windows, use `.\scripts\install.ps1`. Restart Codex Desktop, then select “氷色りん” from the pet selector. See the [installation guide](docs/INSTALLATION.md) for update, verification, and removal instructions.
 
 > [!NOTE]
 > This community package targets Codex Desktop's local pet-package format, which may change with app updates.
@@ -50,7 +50,7 @@ The final atlas has been checked for:
 
 See the [QA report](docs/QA.md) and [animation specification](docs/ANIMATION_SPEC.md) for details.
 
-![Rin Cyber Idol's sixteen look directions](assets/look-directions.png)
+![氷色りん's sixteen look directions](assets/look-directions.png)
 
 ## License
 

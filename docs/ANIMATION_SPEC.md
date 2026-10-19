@@ -5,7 +5,7 @@
 | 項目 | 値 |
 |---|---|
 | Pet ID | `rin-cyber-idol` |
-| 表示名 | 氷色サイバーアイドル・りん |
+| 表示名 | 氷色りん |
 | Sprite version | `2` |
 | 形式 | WebP RGBA |
 | アトラス | `1536 × 2288 px` |
@@ -38,8 +38,8 @@ Unused cells are fully transparent. Look directions use screen coordinates: 000 
 ```json
 {
   "id": "rin-cyber-idol",
-  "displayName": "氷色サイバーアイドル・りん",
-  "description": "白とアイスブルーの衣装とヘッドホンが目印の、穏やかなサイバーアイドル・りん。",
+  "displayName": "氷色りん",
+  "description": "白とアイスブルーの衣装に、ヘッドホンを合わせたりん。",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
