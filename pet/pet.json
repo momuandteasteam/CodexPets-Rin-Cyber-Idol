@@ -1,7 +1,7 @@
 {
   "id": "rin-cyber-idol",
-  "displayName": "氷色りん",
-  "description": "白とアイスブルーの衣装に、ヘッドホンを合わせたりん。",
+  "displayName": "Rin（サイバーアイドル衣装）",
+  "description": "サイバーアイドル衣装をまとったRin。白とアイスブルーの装いにヘッドホンを合わせています。",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }

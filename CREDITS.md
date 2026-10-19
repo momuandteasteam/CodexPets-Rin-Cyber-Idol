@@ -1,6 +1,7 @@
 # Credits
 
-- Character: 氷色りん (Ice Rin, a variant of Rin)
+- Character: Rin
+- Outfit: サイバーアイドル衣装
 - Source character sheet: supplied by the repository owner; not included in this repository
 - Codex Pet adaptation: created with OpenAI Codex and the built-in ImageGen tool
 - Packaging: Codex Pet v2 sprite assembly, chroma cleanup, motion previews and validation
@@ -9,4 +10,4 @@
 
 Copyright © 2026 momuandteasteam and the applicable rights holders. All rights reserved.
 
-This credit file does not grant additional rights. Only personal, non-commercial local use is permitted under the [氷色りん Personal-Use License](LICENSE.md). Redistribution is prohibited.
+This credit file does not grant additional rights. Only personal, non-commercial local use is permitted under the [Rin（サイバーアイドル衣装） Personal-Use License](LICENSE.md). Redistribution is prohibited.
